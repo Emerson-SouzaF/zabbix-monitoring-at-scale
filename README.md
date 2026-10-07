@@ -190,8 +190,8 @@ Mais detalhes em [`docs/troubleshooting.md`](docs/troubleshooting.md).
 
 **Emerson Souza** | Infraestrutura
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/emersonsf)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]([https://github.com/SEU_USUARIO](https://github.com/Emerson-SouzaF))
 
 ## 📄 Licença
 
